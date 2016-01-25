@@ -9,7 +9,7 @@
 
 - *Fork this repository.*
 - Fix the 3 poorly named files.
-- Fix the 4 indentation issues
+- Fix the 4 indentation issues.
 - Fix the 3 validation errors.
 - Remember to do regular commits.
 - Run it through Markbot and make sure it passes all the checks.
