@@ -1,0 +1,11 @@
+repo: "html-validation-fixes"
+canvasCourse: "467502"
+canvasAssignment: "4178290"
+
+naming: true
+commits: 2
+
+html:
+  - path: "index.html"
+    valid: true
+    bestPractices: true
