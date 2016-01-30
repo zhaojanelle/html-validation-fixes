@@ -8,14 +8,13 @@
 **Sift through the files and code and fix all of the errors.**
 
 - *Fork this repository.*
-- Fix the 3 poorly named files.
-- Fix the 4 indentation issues.
-- Fix the 3 validation errors.
-- Remember to do regular commits.
-- Run it through Markbot and make sure it passes all the checks.
+- Fix all the naming convention issues.
+- Fix all the indentation problems.
+- Fix all the validation errors.
+- *Run it through Markbot and make sure it passes all the checks.*
 
 ---
 
-## Goal
+## Hand in
 
-Pass all the Markbot tests.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
