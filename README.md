@@ -1,11 +1,12 @@
-# HTML validation fixes
-
-- Approx. completion time: **15 minutes**
-- Deliverables: **1 HTML file, images**
-
+---
+summary: 'Sift through the files and code and fix all of the errors.'
+time: '15 minutes'
+deliverables: '1 HTML file, images'
 ---
 
-**Sift through the files and code and fix all of the errors.**
+# HTML validation fixes
+
+## Overview
 
 - *Fork this repository.*
 - Fix all the naming convention issues.
